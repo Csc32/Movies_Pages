@@ -1,0 +1,10 @@
+{
+	"dependencies": {
+		"@popperjs/core": "^2.11.6",
+		"bootstrap": "5.2.2",
+		"core@^2.11.6": "link:popperjs/core@^2.11.6"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}
